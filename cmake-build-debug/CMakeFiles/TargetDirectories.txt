@@ -1,0 +1,3 @@
+D:/development/src/github.com/journeyman32/UdemySample1/cmake-build-debug/CMakeFiles/UdemySample1.dir
+D:/development/src/github.com/journeyman32/UdemySample1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/development/src/github.com/journeyman32/UdemySample1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

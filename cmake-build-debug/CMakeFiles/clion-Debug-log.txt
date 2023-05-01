@@ -1,16 +1,10 @@
-C:\Users\Bryan\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Bryan/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/win/x64/ninja.exe "-DCMAKE_C_COMPILER=C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.35.32215/bin/Hostx64/x64/cl.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.35.32215/bin/Hostx64/x64/cl.exe" -G Ninja -S D:\development\src\github.com\journeyman32\UdemySample1 -B D:\development\src\github.com\journeyman32\UdemySample1\cmake-build-debug
--- The C compiler identification is MSVC 19.35.32217.1
+/home/bryan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /code/src/github.com/journeyman32/UdemyCProgramming -B /code/src/github.com/journeyman32/UdemyCProgramming/cmake-build-debug
+-- The C compiler identification is GNU 12.2.1
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.35.32215/bin/Hostx64/x64/cl.exe - skipped
+-- Check for working C compiler: /usr/bin/cc - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
-CMake Warning:
-  Manually-specified variables were not used by the project:
-
-    CMAKE_CXX_COMPILER
-
-
--- Build files have been written to: D:/development/src/github.com/journeyman32/UdemySample1/cmake-build-debug
+-- Build files have been written to: /code/src/github.com/journeyman32/UdemyCProgramming/cmake-build-debug
